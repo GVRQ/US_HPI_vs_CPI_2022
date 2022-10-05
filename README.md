@@ -37,5 +37,6 @@ CPI's peak months: February and October.
 The Home Price Index has been linearly increasing since 1987.
 HPI's peak months: March, April, May and December.
 
-Q: Why is the HPI is skyrocketing? The low supply of houses for sale in 2022 > Investment purchases 2021-2022.
-A: The number of houses for sale = (the number of houses put up for sale - the number of houses sold). Investors are buying the houses for many reasons, including the rise of short-term rentals and government incentives (tax breaks).
+- Q: Why is the HPI is skyrocketing? The low supply of houses for sale in 2022 > Investment purchases 2021-2022.
+
+- A: The number of houses for sale = (the number of houses put up for sale - the number of houses sold). Investors are buying the houses for many reasons, including the rise of short-term rentals and government incentives (tax breaks).
